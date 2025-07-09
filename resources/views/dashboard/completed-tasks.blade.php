@@ -170,7 +170,7 @@
                             @endforeach
                         @else
                             <div class="text-xl font-medium text-center w-full mt-3">
-                                No pending tasks
+                                No completed tasks
                             </div>
                         @endif
                     </div>
